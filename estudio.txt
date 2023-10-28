@@ -1,0 +1,11 @@
+Etiquetas semanticas.
+heading --> a eso se refiere el h de los h1,h2,n,h6
+aside->navegación en un costado
+la etiqueta a se usa para vincular recursos externos o internos.
+para que laetiqueta a abra el recurso anterior en otra pestaña se usa el atributo target="_blank"
+la etiqueta div no es correcta en cuanto su uso dado a que no es una etiqueta semnántica.
+
+justify-content--> centra en el eje principal, NO centra en el eje X.
+Se modifica el eje principal con el flex direction.
+align-item --> centra en los ejes 2rios
+justify-content
